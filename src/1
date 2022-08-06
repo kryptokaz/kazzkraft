@@ -1,0 +1,10 @@
+Downloading mojang_1.19.jar
+Applying patches
+Starting org.bukkit.craftbukkit.Main
+System Info: Java 17 (OpenJDK 64-Bit Server VM 17.0.4+8-Ubuntu-122.04) Host: Linux 5.15.0-1012-raspi (aarch64)
+Loading libraries, please wait...
+2022-08-06 10:17:57,342 ServerMain WARN Advanced terminal features are not available in this environment
+[10:18:11 INFO]: Building unoptimized datafixer
+[10:18:16 ERROR]: Failed to load properties from file: server.properties
+[10:18:17 WARN]: Failed to load eula.txt
+[10:18:17 INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

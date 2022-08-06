@@ -1,0 +1,14 @@
+[
+	{
+		"uuid": "38cb63c4-48f5-4df3-8b63-b4c3776f9197"
+		"name": "kryptokaz", 
+		"level":4,
+		"bypassesPlayerLimit":false
+	},
+	{
+		"uuid": 02c08fec-9530-4d18-8ce5-fe38b0db91f2",
+		"name": "WolfieTehFloofie",
+		"level":4,
+		"bypasesPlayerLimit":false 
+	}
+]
